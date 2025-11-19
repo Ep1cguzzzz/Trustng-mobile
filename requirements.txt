@@ -1,0 +1,12 @@
+streamlit
+vnstock
+pandas
+pandas_ta
+plotly
+numpy
+scikit-learn
+matplotlib
+seaborn
+requests
+scipy
+statsmodels
